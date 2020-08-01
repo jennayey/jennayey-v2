@@ -1,0 +1,15 @@
+html {
+    background-color: #303030;
+}
+
+.container {
+    margin: 10vw 5vw;
+    
+}
+
+@media screen and (min-width: 1024px) {
+   .container{
+    width: 40vw;
+   }
+}
+

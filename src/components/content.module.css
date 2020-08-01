@@ -1,0 +1,25 @@
+.content {
+    margin-top: 50px;
+}
+
+.content a{
+    color: #FFBA24;
+ 
+
+}
+
+.content p{
+    color: white;
+}
+
+.content p,a {
+    font-size: 18px;font-family: Roboto, sans-serif;
+    display: block;
+    margin-bottom: 20px;
+    line-height: 1.3em;
+
+}
+
+.content p a {
+    display: inline;
+}

@@ -1,0 +1,13 @@
+.header .title {
+    color: white;
+ /* font-family: Helvetica, sans-serif; */
+}
+
+.header .pathText {
+    color: #FFBA24;
+
+}
+.header .title, .pathText{
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+}
