@@ -5,18 +5,23 @@ import Header from "../components/header"
 import Content from "../components/content"
 
 import Title from "../components/title"
-export default function Contact() {
+export default function Projcts() {
   return (
     <div>
       <Container>
         
+
         <Content>
         <Link to="/">Back</Link>
-         <Title pageTitle="Chit chat"/>
+         <Title pageTitle="Projects"/>
 
-         <p>Send me a message at Twitter <a href="https://twitter.com/jennayey">@jennayey</a></p>
 
-         <p>Or you can send me a message on my email at <span><a href="mailto:hello@jennayey.com">hello@jennayey.com</a></span></p>
+  <h3>2020</h3>
+<a href="https://script-translator.netlify.app/">Philippine Scripts Translator</a>
+
+<h3>2018</h3>
+<a href="https://jennayey.itch.io/nolimetangere">Noli Me Tangere: The Game</a>
+<a href="https://jennayey.itch.io/somber">Somber: A 2D Game</a>
 
         </Content>
       </Container>

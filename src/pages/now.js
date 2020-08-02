@@ -1,4 +1,6 @@
 import React from "react"
+import { Link } from "gatsby"
+
 import Container from "../components/container"
 import Header from "../components/header"
 import Content from "../components/content"
@@ -8,8 +10,10 @@ export default function Home() {
   return (
     <div>
       <Container>
-        <Header pageTitle="now" />
+        
+
         <Content>
+        <Link to="/">Back</Link>
         <Title pageTitle="Right now" />
           
 
@@ -18,7 +22,7 @@ export default function Home() {
          </p>
 
          <p>
-           Also I am currently working on my typing speeds as I've recently switched to a Dvorak layout and an 40% ortholinear keyboard
+           Also I am currently working on my typing speeds as I've recently switched to a Dvorak layout and an 40% ortholinear keyboard.
          </p>
 
          <a href="https://nownownow.com/about">About a now page</a>

@@ -8,18 +8,31 @@
 
 }
 
-.content p{
+.content h3{
+    margin-bottom: 5px;
+ 
+
+}
+
+.content p, h3{
     color: white;
 }
 
-.content p,a {
-    font-size: 18px;font-family: Roboto, sans-serif;
-    display: block;
-    margin-bottom: 20px;
+
+.content p,a, h3  {
     line-height: 1.3em;
+    display: block;
+    font-family: Roboto, sans-serif;
+}
+.content p,a {
+    font-size: 18px;
+    
+    margin-bottom: 25px;
+   
 
 }
 
 .content p a {
     display: inline;
 }
+
