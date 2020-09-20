@@ -17,7 +17,7 @@ export default function Projcts() {
 
 
   <h3>2020</h3>
-<a href="https://script-translator.netlify.app/">Philippine Scripts Translator</a>
+<a href="https://translate.jennayey.com/">Philippine Scripts Translator</a>
 
 <h3>2018</h3>
 <a href="https://jennayey.itch.io/nolimetangere">Noli Me Tangere: The Game</a>
