@@ -7,7 +7,7 @@
 }
 
 .buttonPrimary a{
-    color: black;
+    color: black!important;
     margin:  0;
     text-decoration: none;
 }
