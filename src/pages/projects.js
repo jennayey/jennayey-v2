@@ -14,6 +14,9 @@ export default function Projects() {
           <Title pageTitle="Projects" />
 
           <h3>2020</h3>
+          <a href="https://jennayey.itch.io/the-gift-wrapper">
+            The Gift Wrapper: A 2D Game
+          </a>
           <a href="https://translate.jennayey.com/">
             Philippine Scripts Translator
           </a>
