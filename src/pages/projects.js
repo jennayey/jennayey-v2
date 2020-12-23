@@ -17,6 +17,9 @@ export default function Projects() {
           <a href="https://jennayey.itch.io/the-gift-wrapper">
             The Gift Wrapper: A 2D Game
           </a>
+          <a href="https://github.com/jennayey/home-inventory-rn">
+            Home Inventory: A React Native App
+          </a>
           <a href="https://translate.jennayey.com/">
             Philippine Scripts Translator
           </a>
