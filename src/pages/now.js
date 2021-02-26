@@ -22,7 +22,7 @@ export default function Home() {
          </p>
 
          <p>
-          And I'm learning the korean language in my free time
+          And I'm learning the korean language in my free time <br></br>
           그레고 내 무료의시간에 한국어 배우고 있어요
          </p>
 
