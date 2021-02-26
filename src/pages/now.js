@@ -17,12 +17,13 @@ export default function Home() {
         <Title pageTitle="Right now" />
           
 
-          <p>I'm still spending my weekends learning and creating side projects to further learn more about web and mobile development.
+          <p>I'm spending my weekends learning and creating side projects to further learn more about web and mobile development.
             
          </p>
 
          <p>
-          Also, investing my after-work hours everyday in learning a new language. 
+          And I'm learning the korean language in my free time
+          그레고 내 무료의시간에 한국어 배우고 있어요
          </p>
 
          <a href="https://nownownow.com/about">About a now page</a>
