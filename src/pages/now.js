@@ -23,7 +23,7 @@ export default function Home() {
 
          <p>
           And I'm learning the korean language in my free time <br></br>
-          그레고 내 무료의시간에 한국어 배우고 있어요
+          그리고 내 무료의시간에 한국어 배우고 있어요
          </p>
 
          <a href="https://nownownow.com/about">About a now page</a>
