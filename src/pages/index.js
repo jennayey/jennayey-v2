@@ -15,7 +15,7 @@ export default function Home() {
         <Title pageTitle="Hi, I'm Jenna"/>
 
           <p>
-          Currently working on cool stuff at <a href="https://orangefix.xyz">Orangefix</a> and creating more cool stuff at my free time.
+          Currently working on cool stuff at <a href="https://yaziacademy.com">Yazi</a> and creating more cool stuff at my free time.
           </p>
           <Link to="/now/">Now</Link>
           <Link to="/contact/">Contact</Link>
