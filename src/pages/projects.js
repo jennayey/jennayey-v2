@@ -13,7 +13,7 @@ export default function Projects() {
           <Link to="/">Back</Link>
           <Title pageTitle="Projects" />
           <h3>2022</h3>
-          <a href="https://bike.jennayey.app">
+          <a href="https://bike.jennayey.com">
             May bike parking dito
           </a>
           <h3>2020</h3>
